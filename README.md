@@ -1,0 +1,7 @@
+## In this project, we will perform tasks related to brain tumors in four stages using 2D MRI images.
+`Step 1:` We determine whether a tumor is present, which is done with about 98% accuracy
+`Step 2:` After determining the presence of a tumor, we determine the type of tumor, which is done with about 98% accuracy
+`Step 3:` We segment the tumor in the image, which is done with about 90% accuracy
+`Step 4:` We will find the tumor volume.
+
+The main project file is located in the `Final Code` folder, which contains all the steps.
