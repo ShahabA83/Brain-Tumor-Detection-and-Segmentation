@@ -9,5 +9,5 @@ The main project file is located in the `Final Code` folder, which contains all 
 ----
 # An example of the final project output:
 <p align="center">
-  <img src="https://github.com/ShahabA83/Brain-Tumor-Detection-and-Segmentation-2D/blob/main/Dataset/Image%20for%20readme/for%20readme.png?raw=true" width="400" height="300"/>
+  <img src="https://github.com/ShahabA83/Brain-Tumor-Detection-and-Segmentation-2D/blob/main/Dataset/Image%20for%20readme/for%20readme.png?raw=true" width="800" height="300"/>
 </p>
